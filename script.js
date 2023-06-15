@@ -4,10 +4,10 @@ const person = {
   name: "John Doe",
   age: 80,
 };
-var team=players;
-const team1=team;
+const team=players;
+let team1=players;
 
-const cap1=person;
+let cap1=person;
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
 window.players = players;
