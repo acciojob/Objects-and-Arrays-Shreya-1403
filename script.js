@@ -10,7 +10,7 @@ const person = {
 let team=[];
 team.forEach(function (e) {
 	team.push(e);
-})
+});
 let team1=players;
 let cap1=person;
 
