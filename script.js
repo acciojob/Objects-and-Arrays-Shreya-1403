@@ -7,7 +7,7 @@ const person = {
 
 
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
-let team=[];
+let team;
 team.forEach(function fun(e) {
 	team.push(e);
 });
